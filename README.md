@@ -10,8 +10,10 @@
   
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabrielvieira1/NextLevelWeek">
   
-  <img alt="GitHub license" src="https://img.shields.io/github/license/gabrielvieira1/NextLevelWeek?color=blue">
-	
+  <a href="https://github.com/gabrielvieira1/NextLevelWeek/blob/master/LICENSE" target="_blank">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/gabrielvieira1/NextLevelWeek?color=blue">
+  </a>
+  
   <a href="https://www.linkedin.com/in/bielvieira/" target="_blank">
     <img alt="Made by Gabriel Vieira" src="https://img.shields.io/badge/made%20by-Gabriel%20Vieira-blue">
   </a>
