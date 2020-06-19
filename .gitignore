@@ -5,6 +5,7 @@
 
 # Dependencies
 /node_modules
+*.db
 
 # User-specific files
 *.rsuser
